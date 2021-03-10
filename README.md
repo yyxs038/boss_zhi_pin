@@ -18,9 +18,9 @@
 大家共享踩过坑的公司信息，最大限度地避免踩坑。所以我想通过该github收集所有面试者的踩坑信息，汇总后通过油猴脚本，即可显示在boss直聘上。
 
 ### 如何共享信息
-在issues上填写 公司名称 + 信息。  如： XXX公司 是 外包公司
-附上公司的boss直聘的介绍页面， 如： https://www.zhipin.com/gongsi/94d837157933cb541nd92dq6Fls~.html?ka=job-detail-company-logo_custompage
-我会根据大家的反馈添加到脚本上
+##### 在issues上填写 公司名称 + 信息。  如： XXX公司 是 外包公司
+##### 附上公司的boss直聘的介绍页面， 如： https://www.zhipin.com/gongsi/94d837157933cb541nd92dq6Fls~.html?ka=job-detail-company-logo_custompage
+##### 我会根据大家的反馈添加到脚本上
 
 ### 效果图
 ![RUNOOB 图标](http://boss.zhengzhang.top/1615342319.png)
