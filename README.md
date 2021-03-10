@@ -22,7 +22,7 @@
 附上公司的boss直聘的介绍页面， 如： https://www.zhipin.com/gongsi/94d837157933cb541nd92dq6Fls~.html?ka=job-detail-company-logo_custompage
 我会根据大家的反馈添加到脚本上
 
-###效果图
+### 效果图
 ![RUNOOB 图标](http://boss.zhengzhang.top/1615342319.png)
 
 ### 油猴脚本代码
@@ -45,10 +45,10 @@ document.createElement('script')
 // Your code here...
 })();
 ```
-###油猴浏览器插件安装和使用方法
+### 油猴浏览器插件安装和使用方法
 自行百度
 
-###使用浏览器
+### 使用浏览器
 推荐使用新版谷歌
 
-###欢迎大家积极使用，目前脚本还有很多地方不完善，如果后续关注的人越多，我会继续完善它
+### 欢迎大家积极使用，目前脚本还有很多地方不完善，如果后续关注的人越多，我会继续完善它
